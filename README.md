@@ -17,6 +17,8 @@
   <a href="https://github.com/kalyugwasi/Cpp-Kit/releases">
     <img src="https://img.shields.io/github/downloads/kalyugwasi/Cpp-Kit/total?style=for-the-badge" alt="Total Downloads">
   </a>
+  <br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=kalyugwasi/Cpp-Kit&countColor=%23263759&style=for-the-badge">
 
 </p>
 
