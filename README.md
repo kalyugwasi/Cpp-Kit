@@ -1,9 +1,24 @@
 # C/C++ Student Kit
 
-[![Version](https://img.shields.io/github/v/release/kalyugwasi/Cpp-Kit?style=for-the-badge)](https://github.com/kalyugwasi/Cpp-Kit/releases/latest)
-[![Maintained by Himanshu](https://img.shields.io/badge/Maintained%20by-Himanshu-brightgreen.svg?style=for-the-badge)](#)
-[![Latest Release](https://img.shields.io/github/v/release/kalyugwasi/Cpp-Kit?display_name=release&style=for-the-badge)](https://github.com/kalyugwasi/Cpp-Kit/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/kalyugwasi/Cpp-Kit/total?style=for-the-badge)](https://github.com/kalyugwasi/Cpp-Kit/releases)
+<p align="center">
+
+  <a href="https://github.com/kalyugwasi/Cpp-Kit/releases/latest">
+    <img src="https://img.shields.io/github/v/release/kalyugwasi/Cpp-Kit?style=for-the-badge" alt="Latest Version">
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Maintained%20by-Himanshu-brightgreen.svg?style=for-the-badge" alt="Maintained by Himanshu">
+  </a>
+
+  <a href="https://github.com/kalyugwasi/Cpp-Kit/releases/latest">
+    <img src="https://img.shields.io/github/v/release/kalyugwasi/Cpp-Kit?display_name=release&style=for-the-badge" alt="Latest Release">
+  </a>
+
+  <a href="https://github.com/kalyugwasi/Cpp-Kit/releases">
+    <img src="https://img.shields.io/github/downloads/kalyugwasi/Cpp-Kit/total?style=for-the-badge" alt="Total Downloads">
+  </a>
+
+</p>
 
 A complete C++ development kit for students with everything you need to get started with C++ programming, including graphics support and pre-configured VS Code tasks.
 
