@@ -69,8 +69,8 @@ VSCode Templates:   {app}\vscode-templates
 9. Install: **C/C++ Extensions Pack**  
    *(VS Code will suggest automatically, or use this link)*  
    https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
-10. Press **Ctrl + Shift + B** → Build
-11. Press **Ctrl + Shift + D** → Select **Run Graphics C++**
+10. Press **Ctrl + Shift + D** → Select **Run Graphics C++**
+11. Press **Ctrl + Shift + B** → Built
 12. Press **F5** (or **Fn + F5**) → Run
 
 🎉 You’re ready to build graphics programs!
