@@ -74,7 +74,7 @@ VSCode Templates:   {app}\vscode-templates
    https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
 10. Press **Ctrl + Shift + D** → Select **Run Graphics C++**
 
-![Release Install](./assets/debug.gif)
+<img src="./assets/debug.gif" alt="debug.gif" width="300" height="700">
 
 11. Press **Ctrl + Shift + B** → Built
 12. Press **F5** (or **Fn + F5**) → Run
