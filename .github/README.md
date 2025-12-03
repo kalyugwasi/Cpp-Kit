@@ -22,7 +22,7 @@
 
 </p>
 
-A complete C/C++ development kit for students with everything you need to get started with C/C++ programming, including graphics support and pre-configured VS Code tasks.
+A complete C/C++ development kit with everything you need to get started with C/C++ programming, including graphics support and pre-configured VS Code tasks.
 
 ## ✨ Features
 
@@ -141,10 +141,6 @@ This project is free to share and improve. We welcome:
 - Code improvements
 - Documentation enhancements
 - Sponsorship
-
-## 📄 License
-
-This project is open source with no restrictions. Free to use, modify, and distribute.
 
 ## 🎯 Getting Help
 
