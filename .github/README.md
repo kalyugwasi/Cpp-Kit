@@ -107,6 +107,8 @@ VSCode Templates:   {app}\vscode-templates
 | **Examples** | Sample C++ programs with graphics |
 | **VS Code Setup** | Ready-to-use build tasks |
 
+
+<br><br>
 ### Command Line
 
 #### Standard C++ Program
