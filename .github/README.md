@@ -187,7 +187,7 @@ If you encounter issues:
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="title" content="C/C++ Development Kit - Complete Programming Setup with MinGW-w64, Graphics.h & VS Code">
+<meta name="title" content="C/C++ Setup with Graphics.h & VS Code">
 <meta name="description" content="Free comprehensive C/C++ Development Kit featuring MinGW-w64 GCC 15.2.0 compiler, WinBGIm graphics library (graphics.h), pre-configured VS Code tasks, and example programs. Perfect for students, beginners, and educators. Zero configuration required - download and start coding in minutes!">
 <meta name="keywords" content="C++ development kit, C++ compiler, MinGW-w64, GCC compiler, graphics.h, WinBGIm, winbgim.h, libbgi, Visual Studio Code C++, VS Code C++ setup, C++ graphics programming, beginner C++, learn C++, C++ tutorial, C++ IDE, C++ examples, C++ for students, Windows C++ compiler, C++ programming tutorial, free C++ compiler, C++ development environment, C++ graphics library, C++ starter kit, C++ installation guide, computer graphics C++, BGI graphics, Turbo C++ alternative, modern C++ setup, C++ education, programming for beginners">
 <meta name="author" content="Himanshu Kumar">
